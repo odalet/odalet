@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odalet&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&theme=transparent) ![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=odalet&layout=donut&theme=transparent)
+
 <!--
 **odalet/odalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
